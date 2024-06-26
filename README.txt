@@ -17,11 +17,13 @@ This project is a web-based application for analyzing and visualizing sweeping t
     ```bash
     git clone <repository-url>
     cd <repository-directory>
+    ```
 
 2. Install the required dependencies
     ```bash
     pip install -r requirements.txt
     python3 app.py
+    ```
 
 ## Usage
 
